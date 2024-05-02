@@ -25,7 +25,7 @@
 ```
 
 
-Maginfy is python script for pentesters that want ot make a little noise. Great for practice and CTFs, magnify will help you get a closer look at services, domain info and othert interesting aspects of your target.
+Magnify is python script for pentesters that want ot make a little noise. Great for practice and CTFs, magnify will help you get a closer look at services, domain info and othert interesting aspects of your target.
 
 
 You may need to install figlet and fonts seperatley. although it is in the script , we are still debugging some features.
@@ -45,7 +45,7 @@ Otherwise just run the python script
 ```
 python -v
 
-python maginify.py
+python magnify.py
 
 ```
 
