@@ -1,5 +1,30 @@
 # magnify
 
+```markdown
+            ______              
+         .-'      `-.           
+       .'            `.         
+      /                \        
+     ;                 ;`       
+     |                  |;       
+     ;                 ;|             Lets take a closer look
+     '\               / ;       
+      \`.           .' /        
+       `.`-._____.-' .'         
+         / /`_____.-'           
+        / / /                   
+       / / /
+      / / /
+     / / /
+    / / /
+   / / /
+  / / /
+ / / /
+/ / /
+\/_/
+```
+
+
 Maginfy is python script for pentesters that want ot make a little noise. Great for practice and CTFs, magnify will help you get a closer look at services, domain info and othert interesting aspects of your target.
 
 
@@ -24,26 +49,3 @@ python maginify.py
 
 ```
 
-```markdown
-            ______              
-         .-'      `-.           
-       .'            `.         
-      /                \        
-     ;                 ;`       
-     |                  |;       
-     ;                 ;|
-     '\               / ;       
-      \`.           .' /        
-       `.`-._____.-' .'         
-         / /`_____.-'           
-        / / /                   
-       / / /
-      / / /
-     / / /
-    / / /
-   / / /
-  / / /
- / / /
-/ / /
-\/_/
-```
