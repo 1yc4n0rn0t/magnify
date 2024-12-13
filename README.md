@@ -44,10 +44,12 @@ Before running the script, you'll need to set up your environment. The script re
 Run the following commands to install the necessary dependencies:
 
 ```bash
+#in order 
 sudo apt install python3-venv  # Install virtual environment tools
 sudo apt install python3-pip  # Install pip for Python 3
+python3 -m venv venv
+source venv/bin/activate
 pip install requests tqdm  # Install required Python libraries
-
 ```
 ```
 python3 magnify.py
